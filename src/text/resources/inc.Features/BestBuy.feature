@@ -6,7 +6,7 @@ Given Open Application "<URl>"
 Then close pop up 
 And Verify Health & Wellness link available in the home page
 
-@health2
+@health2 @sanity 
 Scenario: Verify Health & Wellness page is clickable
 Given Open Application "<URl>"
 #Then close pop up 
