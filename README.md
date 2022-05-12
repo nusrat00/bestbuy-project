@@ -1,2 +1,0 @@
-# nusrat00
-# MyRepository
